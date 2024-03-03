@@ -1,2 +1,2 @@
-# projects
+# TO-DO list
 HTML ,CSS and JAVASCRIPT
